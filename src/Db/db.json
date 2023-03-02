@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "Name": "Arnab Singha",
+      "Email": "ArnabSingha9004@gmail.com",
+      "Skills": "Web Developer",
+      "Age": "23"
+    },
+    {
+      "id": "2fa8c5e2-a222-4c33-82f3-e625106f2767",
+      "Name": "hunny Bunny",
+      "Email": "hunnyBunny@gmail.com",
+      "Skills": "Html Css Js",
+      "Age": "12"
+    },
+    {
+      "id": "fa88490c-5c0b-4126-96e4-ccbc84244e23",
+      "Name": "Kia EV6 duid",
+      "Email": "indrajit@gmail.com",
+      "Skills": "Html Css Js",
+      "Age": "23"
+    }
+  ]
+}
