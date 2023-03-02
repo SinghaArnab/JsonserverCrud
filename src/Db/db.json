@@ -20,6 +20,13 @@
       "Email": "indrajit@gmail.com",
       "Skills": "Html Css Js",
       "Age": "23"
+    },
+    {
+      "id": "0920ee9d-2392-4bf3-a5a0-cd2da1690b8b",
+      "Name": "Tesla ",
+      "Email": "ramSingha@gmail.com",
+      "Skills": "Html Css Js",
+      "Age": "34"
     }
   ]
 }
